@@ -45,7 +45,7 @@
    ```
 4. 点菜单栏的锁图标开始使用。之后的新版本会在 App 内自动提示更新。
 
-**Windows 版**：在 Releases 下载 `WatchLock-Windows-版本号-Setup.exe`（国内可在 [mibhr.cn](https://mibhr.cn) 下载），双击安装，开始菜单和桌面会出现 Watch Lock。包含晾衣绳和一键锁屏熄屏，与 Mac 版同一个激活码，同样会自动更新。首次运行若出现“Windows 已保护你的电脑”，点“更多信息”→“仍要运行”。
+**Windows 版**：在 Releases 下载 `WatchLock-Windows-版本号-Setup.exe`（国内可在 [mibhr.cn](https://mibhr.cn) 下载），双击安装。包含晾衣绳和一键锁屏熄屏，与 Mac 版同一个激活码，同样会自动更新。首次运行若出现“Windows 已保护你的电脑”，点“更多信息”→“仍要运行”。
 
 ## 试用与购买
 
