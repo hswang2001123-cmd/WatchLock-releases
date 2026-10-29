@@ -45,14 +45,14 @@
    ```
 4. 点菜单栏的锁图标开始使用。之后的新版本会在 App 内自动提示更新。
 
-**Windows 测试版**：在 Releases 下载 `WatchLock-Windows-版本号-x64.zip`（国内可在 [mibhr.cn](https://mibhr.cn) 下载），右键“全部解压”后运行 `WatchLock.exe`。目前包含晾衣绳和一键锁屏熄屏，免费使用，同样会自动更新。
+**Windows 版**：在 Releases 下载 `WatchLock-Windows-版本号-Setup.exe`（国内可在 [mibhr.cn](https://mibhr.cn) 下载），双击安装，开始菜单和桌面会出现 Watch Lock。包含晾衣绳和一键锁屏熄屏，与 Mac 版同一个激活码，同样会自动更新。首次运行若出现“Windows 已保护你的电脑”，点“更多信息”→“仍要运行”。
 
 ## 试用与购买
 
 - 首次打开起免费试用 **3 天**，期间所有功能都能用。
 - 试用结束后，锁屏和关闭显示器仍可免费使用；晾衣绳、剪贴板历史、菜单栏图标折叠、屏幕与连接、新建 TXT 需要激活码。
 - 一个激活码可用于 **一台 Mac 和一台 Windows 电脑**，激活后不能转移。激活时联网登记一次，之后每周静默核对一次，断网也不影响使用。
-- 购买 / 支持作者：[爱发电主页](https://afdian.com/a/hswang2001)
+- 购买激活码：发邮件到 hswang2001@foxmail.com 联系。
 
 ## 隐私
 
